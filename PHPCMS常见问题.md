@@ -7,8 +7,8 @@ grammar_cjkRuby: true
 ## 1、页面主要结构
 * 主页面 index
   * category  分类页
-    * list 列表页
-        * 详情页  show
+  * list 列表页
+  * 详情页  show
 
 ## 2、操作方法
 
