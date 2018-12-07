@@ -60,10 +60,12 @@ window.onresize=function(){
 #### 案例：漂浮窗
 
 ```
-window.onresize=function(){     //onresize 检测屏幕的变化
-				 cw =document.documentElement.clientWidth;
-			     ch =document.documentElement.clientHeight;
-			}
+window.onresize=function(){ 
+
+ //onresize 检测屏幕的变化
+ cw =document.documentElement.clientWidth;
+ ch =document.documentElement.clientHeight;
+}
 
 
 ```
